@@ -1,0 +1,11 @@
+{
+  "name": "dzina",
+  "version": "1.0.0",
+  "description": "A random username generator inspired by funny names in Zambia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Madalitso Phiri",
+  "license": "ISC"
+}
