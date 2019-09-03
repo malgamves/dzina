@@ -1,10 +1,10 @@
 {
   "name": "dzina",
   "keywords": [
-    "http",
-    "simple",
-    "util",
-    "utility"
+    "username",
+    "generator",
+    "random",
+    ""
 ],
   "version": "1.0.1",
   "description": "A random username generator inspired by funny names in Zambia",
