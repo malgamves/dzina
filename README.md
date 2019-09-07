@@ -18,7 +18,7 @@ var username = dzina.generate();
 
 ## Contributing
 
-Feel free to send in PR to either add functionality to the package or add a name/ noun you think should be there. 
+Feel free to send in a PR to either add functionality to the package or add a name/noun you think should be there. 
 
 ## Disclaimer
 
