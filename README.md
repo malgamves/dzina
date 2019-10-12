@@ -27,5 +27,5 @@ This package is simply for entertainment purposes and was not meant to ridicule 
 # Collaborators 
 
 - [Daniel Phiri](https://malgamves.dev)
-
+- [Dennis Mubamba] (https://github.com/dennism501/)
 
