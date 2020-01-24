@@ -27,5 +27,6 @@ This package is simply for entertainment purposes and was not meant to ridicule 
 # Collaborators 
 
 - [Daniel Phiri](https://malgamves.dev)
+- [Mukuma Musenge](https://thamani.media)
 
 

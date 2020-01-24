@@ -17,7 +17,6 @@ function generate() {
     const randomOne = Math.floor(Math.random() * data.nouns.length)
     const randomTwo = Math.floor(Math.random() * data.names.length)
     const randomNum = Math.floor(Math.random() * 100 )
-    console.log(`${data.nouns[randomOne]}${data.names[randomTwo]}${randomNum}`);
     return `${data.nouns[randomOne]}${data.names[randomTwo]}${randomNum}`
 };
 
