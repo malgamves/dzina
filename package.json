@@ -10,7 +10,7 @@
   "description": "A random username generator inspired by funny names in Zambia",
   "main": "index.js",
   "scripts": {
-    "test": "mocha tests/tests.js"
+    "test": "mocha tests/test.js"
   },
   "author": "Daniel Madalitso Phiri<malgamves@gmail.com>",
   "repository": {
