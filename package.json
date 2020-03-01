@@ -6,7 +6,7 @@
     "random",
     ""
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A random username generator inspired by funny names in Zambia",
   "main": "index.js",
   "scripts": {
