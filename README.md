@@ -1,6 +1,11 @@
 # dzina
 A random username generator inspired by funny names in Zambia.
 
+[![CircleCI](https://circleci.com/gh/malgamves/dzina/tree/master.svg?style=svg)](https://circleci.com/gh/malgamves/dzina/tree/master)
+
+# dzina
+A random username generator inspired by funny names in Zambia.
+
 ## Installation
 
 Run `npm i dzina` to install the package.
