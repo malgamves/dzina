@@ -3,13 +3,14 @@
   "keywords": [
     "username",
     "generator",
-    "random",
-    ""
+    "random"
   ],
   "version": "1.0.2",
   "description": "A random username generator inspired by funny names in Zambia",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "lib",
   "scripts": {
+    "build": "tsc -p .",
     "test": "mocha tests/test.js"
   },
   "author": "Daniel Madalitso Phiri<malgamves@gmail.com>",
@@ -23,6 +24,7 @@
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.1.0"
+    "mocha": "^10.2.0",
+    "typescript": "^5.2.2"
   }
 }
